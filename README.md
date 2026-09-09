@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./aevium-astrea-loop.gif" width="100%" alt="Aevium × Astrea">
+</p>
 # hey, i'm Aevium.
 
 I build things I wish existed.
