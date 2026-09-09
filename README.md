@@ -1,11 +1,11 @@
 # hey, i'm Aevium.
 
-> I code. Astrea judges.
-
 I build things I wish existed.
 
-Currently working on **Astrea** — my personal AI companion.
+Currently building **[Astrea](https://github.com/Aeviumx/Astrea)** — a personal AI companion with long-term memory, personality and tools.
 
-`AI` · `Python` · `TypeScript` · `Next.js`
+### currently exploring
 
-<sub>somewhere in /dev/null</sub>
+`AI` · `Cybersecurity` · `Python` · `TypeScript`
+
+<sub>probably debugging something that worked 5 minutes ago.</sub>
